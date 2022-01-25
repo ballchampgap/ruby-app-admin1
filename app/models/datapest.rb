@@ -1,0 +1,2 @@
+class Datapest < ApplicationRecord
+end
